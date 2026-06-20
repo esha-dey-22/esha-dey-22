@@ -19,8 +19,7 @@ esha = {
     "name": "Esha Dey",
     "location": "India 🇮🇳",
     "focus": ["DSA", "Backend Development", "Open Source"],
-    "learning": ["System Design", "Cloud", "DevOps"],
-    "fun_fact": "I debug with print statements and I'm not ashamed 😄"
+    "learning": ["System Design", "Cloud", "DevOps"]"
 }
 ```
 
