@@ -10,22 +10,46 @@
 
 </div>
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://esha-dey-22.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-dey/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ed0629/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edey38111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/esha-dey-22)
+
+![Profile Views](https://komarev.com/ghpvc/?username=esha-dey-22&style=flat-square&color=blueviolet&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/esha-dey-22?style=flat-square&color=0D1117&logo=github&label=Followers)](https://github.com/esha-dey-22?tab=followers)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
-## 👩‍💻 About Me
+## ⚡ About Me
+
+I'm **Esha Dey**, a Computer Science Engineer from Kolkata, India, who loves building things that actually solve problems — whether that's an AI-powered civic platform, a containerised streaming service, or a CLI tool that saves someone 10 minutes.
+
+> *"Write code that scales, ship things that matter, and never stop solving."*
+
+- 🔭 **Currently:** Final year B.Tech CSE at Lovely Professional University
+- 🛠️ **Building:** Full-stack apps with real DevOps pipelines — not just localhost
+- 🧠 **Sharpening:** 800+ LeetCode problems across Arrays, Trees, DP, Graphs
+- 🌱 **Learning:** System Design, Cloud Architecture, Kubernetes at scale
+- 📍 **Location:** Kolkata, West Bengal, India
+- 💬 **Open to:** Internships · Live Projects · Collaborative Engineering
 
 ```python
 esha = {
-    "name":        "Esha Dey",
-    "location":    "Kolkata, West Bengal, India 🇮🇳",
-    "education":   "B.Tech CSE — Lovely Professional University (2022–Present)",
-    "focus":       ["Full-Stack Development", "DevOps & CI/CD", "Competitive Programming"],
-    "cp":          "800+ LeetCode problems — Arrays, Trees, DP, Graphs, Sliding Window",
-    "certified":   ["IBM DevOps & Software Engineering", "DSA — Techvanto", "OOP — IamNEO"],
-    "open_to":     "Internships · Live Projects · Collaborative Engineering",
-    "contact":     "edey38111@gmail.com"
+    "focus":    ["Full-Stack Development", "DevOps & CI/CD", "Competitive Programming"],
+    "certified": ["IBM DevOps & Software Engineering", "DSA — Techvanto", "OOP — IamNEO"],
+    "cp":        "800+ problems — Java · Python · JavaScript",
+    "contact":   "edey38111@gmail.com"
 }
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -33,11 +57,13 @@ esha = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CivicConnect**](https://github.com/esha-dey-22/CivicConnect) | AI-powered civic issue tracking portal with NLP duplicate detection (TF-IDF & Cosine Similarity) | Next.js 15 · FastAPI · MongoDB · VADER NLP · Clerk Auth |
-| **Local Market Platform** | Hyper-local marketplace connecting neighbourhood vendors with nearby buyers | Node.js · Express.js · MongoDB · Docker · Jenkins |
-| **StreamFlare** | Netflix-inspired multi-device entertainment dashboard with Dockerized build workflows | HTML/CSS/JS · Bootstrap · Jenkins · Docker Hub |
-| **Marks Update Tracker** | CLI tool tracking student score updates and rank jumps using custom hash maps | Python · Data Structures · Algorithms |
-| **Fitness Club Management System** | C-based record system with binary file I/O, BMI calculator, and indexed client lookups | C · File I/O · Struct Pointers |
+| [**CivicConnect**](https://github.com/esha-dey-22/CivicConnect) | 🗳️ AI-powered civic issue tracker with NLP duplicate detection using TF-IDF & Cosine Similarity | Next.js 15 · FastAPI · MongoDB · VADER NLP · Clerk Auth |
+| **Local Market Platform** | 🏪 Hyper-local marketplace connecting neighbourhood vendors with nearby buyers via Jenkins CI/CD | Node.js · Express.js · MongoDB · Docker · Jenkins |
+| **StreamFlare** | 🎬 Netflix-inspired multi-device entertainment dashboard with Dockerized build workflows | HTML/CSS/JS · Bootstrap · Jenkins · Docker Hub |
+| **Marks Update Tracker** | 📈 CLI tool tracking student score updates and rank jumps using custom hash maps | Python · Data Structures · Algorithms |
+| **Fitness Club Management System** | 💪 C-based record system with binary file I/O, BMI calculator, and indexed client lookups | C · File I/O · Struct Pointers |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -69,6 +95,8 @@ esha = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -121,6 +149,8 @@ esha = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
 ## 🧠 LeetCode
@@ -133,6 +163,19 @@ esha = {
 
 > **800+ problems solved** — Arrays, Trees, Dynamic Programming, Graphs, Backtracking, Sliding Window · Languages: Java, Python, JavaScript
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🎯 What I'm Working Towards
+
+I want to grow from a developer who ships features into an engineer who architects systems.
+
+- 🏗️ **Distributed Systems** — Building fault-tolerant, horizontally scalable backends
+- ☁️ **Cloud-Native Engineering** — Mastering Kubernetes, Helm, and GitOps workflows
+- 🤖 **AI-Integrated Applications** — Adding intelligence to real-world civic and social problems
+- 🌍 **Open Source** — Contributing tools that other developers actually use
+
 ---
 
 ## 🎓 Certifications
@@ -143,23 +186,23 @@ esha = {
 | 📊 | Data Structures and Algorithms | Techvanto Academy | Jun 2024 |
 | 🎯 | Object Oriented Programming | IamNEO Platform | Dec 2023 |
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
-## 🌐 Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-dey/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ed0629/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://esha-dey-22.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esha-dey-22)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edey38111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-dey/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ed0629/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://esha-dey-22.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/esha-dey-22)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edey38111@gmail.com)
 
-</div>
+*Open to internship opportunities, collaborative projects, and conversations about full-stack engineering, DevOps, or civic tech.*
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=esha-dey-22&color=blueviolet&style=for-the-badge&label=Profile+Views)
+*I reply within 24 hours. 📬*
 
 </div>
 
