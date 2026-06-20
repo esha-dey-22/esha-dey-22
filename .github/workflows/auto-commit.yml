@@ -1,0 +1,49 @@
+name: Auto Commit Activity
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # runs daily at noon UTC
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git identity
+        run: |
+          git config user.name "esha-dey-22"
+          git config user.email "YOUR_EMAIL@users.noreply.github.com"
+
+      - name: Update activity log
+        run: |
+          mkdir -p activity
+          echo "Last activity: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > activity/log.md
+          echo "" >> activity/log.md
+          echo "### Random DSA Tip of the Day" >> activity/log.md
+          tips=(
+            "Always analyze time complexity before coding."
+            "Two-pointer technique saves O(n) space in many problems."
+            "Binary search works on any monotonic function, not just sorted arrays."
+            "Sliding window is two-pointer's smarter cousin."
+            "Memoization = recursion + cache. Start there before tabulation."
+            "DFS uses a stack (implicit or explicit). BFS uses a queue. Always."
+            "For graph problems, always clarify: directed or undirected? Weighted?"
+            "Prefix sums solve subarray sum problems in O(1) per query."
+            "Topological sort = BFS (Kahn's) or DFS on a DAG."
+            "Recursion is just trust — trust the function handles the subproblem."
+          )
+          random_tip=${tips[$RANDOM % ${#tips[@]}]}
+          echo "> $random_tip" >> activity/log.md
+
+      - name: Commit and push
+        run: |
+          git add activity/log.md
+          git diff --staged --quiet || git commit -m "chore: daily activity log [$(date -u '+%Y-%m-%d')]"
+          git push
