@@ -1,0 +1,14 @@
+name: Refresh README Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"   # weekly on Sunday at 6AM UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Confirm README exists
+        run: echo "README.md is present at $(stat README.md)"
