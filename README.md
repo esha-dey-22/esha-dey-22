@@ -131,11 +131,13 @@ esha = {
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏅 Stats At a Glance
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=esha-dey-22&theme=discord&no-frame=true&no-bg=true&margin-w=10" alt="trophies"/>
+| 🔥 Streak | 📦 Repos | 🧠 LeetCode | 🎓 Certs |
+|---|---|---|---|
+| Active Daily | 24+ Public | 800+ Solved | 3 Earned |
 
 </div>
 
