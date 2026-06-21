@@ -35,16 +35,16 @@ I'm **Esha Dey**, a Computer Science Engineer from Kolkata, India, who loves bui
 
 - 🔭 **Currently:** Final year B.Tech CSE at Lovely Professional University
 - 🛠️ **Building:** Full-stack apps with real DevOps pipelines — not just localhost
-- 🧠 **Sharpening:** 800+ LeetCode problems across Arrays, Trees, DP, Graphs
+- 🧠 **Sharpening:** <!-- LEETCODE_TOTAL -->800<!-- /LEETCODE_TOTAL -->+ LeetCode problems across Arrays, Trees, DP, Graphs
 - 🌱 **Learning:** System Design, Cloud Architecture, Kubernetes at scale
 - 📍 **Location:** Kolkata, West Bengal, India
 - 💬 **Open to:** Internships · Live Projects · Collaborative Engineering
 
 ```python
 esha = {
-    "focus":    ["Full-Stack Development", "DevOps & CI/CD", "Competitive Programming"],
+    "focus":     ["Full-Stack Development", "DevOps & CI/CD", "Competitive Programming"],
     "certified": ["IBM DevOps & Software Engineering", "DSA — Techvanto", "OOP — IamNEO"],
-    "cp":        "800+ problems — Java · Python · JavaScript",
+    "cp":        "<!-- LEETCODE_TOTAL -->800<!-- /LEETCODE_TOTAL -->+ problems — Java · Python · JavaScript",
     "contact":   "edey38111@gmail.com"
 }
 ```
@@ -133,13 +133,11 @@ esha = {
 
 ## 🏅 Stats At a Glance
 
-<div align="center">
-
+<!-- STATS_TABLE_START -->
 | 🔥 Streak | 📦 Repos | 🧠 LeetCode | 🎓 Certs |
 |---|---|---|---|
 | Active Daily | 24+ Public | 800+ Solved | 3 Earned |
-
-</div>
+<!-- STATS_TABLE_END -->
 
 ---
 
@@ -163,7 +161,9 @@ esha = {
 
 </div>
 
-> **800+ problems solved** — Arrays, Trees, Dynamic Programming, Graphs, Backtracking, Sliding Window · Languages: Java, Python, JavaScript
+<!-- LEETCODE_SUMMARY_START -->
+> **800+ problems solved** — Arrays, Trees, Dynamic Programming, Graphs, Backtracking · Languages: Java, Python, JavaScript
+<!-- LEETCODE_SUMMARY_END -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
