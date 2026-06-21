@@ -2,13 +2,36 @@ name: Refresh README Stats
 
 on:
   schedule:
-    - cron: "0 6 * * 0"   # weekly on Sunday at 6AM UTC
+    - cron: "35 18 * * *"   # 12:05 AM IST
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-      - name: Confirm README exists
-        run: echo "README.md is present at $(stat README.md)"
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run README updater
+        run: python .github/workflows/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "esha-dey-22"
+          git config user.email "edey38111@gmail.com"
+          git add README.md
+          git diff --staged --quiet && echo "No changes to commit" || \
+          git commit -m "chore: auto-update README stats [$(date -u '+%Y-%m-%d')]"
+          git push
