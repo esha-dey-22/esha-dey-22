@@ -44,7 +44,7 @@ I'm **Esha Dey**, a Computer Science Engineer from Kolkata, India, who loves bui
 esha = {
     "focus":     ["Full-Stack Development", "DevOps & CI/CD", "Competitive Programming"],
     "certified": ["IBM DevOps & Software Engineering", "DSA — Techvanto", "OOP — IamNEO"],
-    "cp":        "<!-- LEETCODE_TOTAL -->864<!-- /LEETCODE_TOTAL -->+ problems — Java · Python · JavaScript",
+    "cp":        "864+ problems solved — Java · Python · JavaScript",
     "contact":   "edey38111@gmail.com"
 }
 ```
@@ -136,7 +136,7 @@ esha = {
 <!-- STATS_TABLE_START -->
 | 🔥 Streak | 📦 Repos | 🧠 LeetCode | 🎓 Certs |
 |---|---|---|---|
-| Active Daily | 25+ Public | 864+ Solved | 3 Earned |
+| Active Daily | 24+ Public | 864+ Solved | 3 Earned |
 <!-- STATS_TABLE_END -->
 
 ---
@@ -162,7 +162,7 @@ esha = {
 </div>
 
 <!-- LEETCODE_SUMMARY_START -->
-> **864+ problems solved** — Array, String, Hash Table, Dynamic Programming, Math · Languages: Java, Python, JavaScript
+> **864+ problems solved** — Arrays, Trees, Dynamic Programming, Graphs, Backtracking · Languages: Java, Python, JavaScript
 <!-- LEETCODE_SUMMARY_END -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
