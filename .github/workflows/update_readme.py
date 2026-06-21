@@ -3,10 +3,10 @@ import requests
 from datetime import datetime
 
 # ── Config ────────────────────────────────────────────────
-GITHUB_USERNAME  = "esha-dey-22"
+GITHUB_USERNAME   = "esha-dey-22"
 LEETCODE_USERNAME = "ed0629"
-README_PATH      = "README.md"
-CERTS_COUNT      = 3  # update manually when you earn a new cert
+README_PATH       = "README.md"
+CERTS_COUNT       = 3
 
 GRAPHQL_URL = "https://leetcode.com/graphql"
 HEADERS = {
@@ -105,10 +105,10 @@ def update_readme(lc, gh):
         content = f.read()
 
     if lc:
-        total     = lc["total"]
-        top_tags  = lc["top_tags"]
+        total    = lc["total"]
+        top_tags = lc["top_tags"]
 
-        # 1. Update every LEETCODE_TOTAL marker
+        # 1. Update LEETCODE_TOTAL marker — only exists in the bullet point now
         content = re.sub(
             r"<!-- LEETCODE_TOTAL -->\d+<!-- /LEETCODE_TOTAL -->",
             f"<!-- LEETCODE_TOTAL -->{total}<!-- /LEETCODE_TOTAL -->",
@@ -148,7 +148,8 @@ def update_readme(lc, gh):
         print(f"   LeetCode : {lc['total']} solved "
               f"({lc['easy']}E / {lc['medium']}M / {lc['hard']}H)")
     if gh:
-        print(f"   GitHub   : {gh['repos']} repos, {gh['followers']} followers")
+        print(f"   GitHub   : {gh['repos']} repos, "
+              f"{gh['followers']} followers")
 
 
 # ── Main ──────────────────────────────────────────────────
