@@ -2,7 +2,7 @@ name: Auto Commit Activity
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # runs daily at noon UTC
+    - cron: "40 18 * * *"   # 12:10 AM IST
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
       - name: Configure git identity
         run: |
           git config user.name "esha-dey-22"
-          git config user.email "YOUR_EMAIL@users.noreply.github.com"
+          git config user.email "edey38111@gmail.com"
 
       - name: Update activity log
         run: |
@@ -38,6 +38,16 @@ jobs:
             "Prefix sums solve subarray sum problems in O(1) per query."
             "Topological sort = BFS (Kahn's) or DFS on a DAG."
             "Recursion is just trust — trust the function handles the subproblem."
+            "HashMap lookups are O(1) average — use them aggressively."
+            "Always consider integer overflow when multiplying large numbers."
+            "In-place reversal of a linked list needs three pointers: prev, curr, next."
+            "Monotonic stack solves next greater element in O(n)."
+            "For interval problems, always sort by start time first."
+            "Union-Find is the cleanest solution for cycle detection in undirected graphs."
+            "Backtracking = try everything, undo what doesn't work."
+            "Floyd's cycle detection uses slow and fast pointers."
+            "Trie is the go-to for prefix search problems."
+            "Kadane's algorithm finds max subarray sum in O(n)."
           )
           random_tip=${tips[$RANDOM % ${#tips[@]}]}
           echo "> $random_tip" >> activity/log.md
