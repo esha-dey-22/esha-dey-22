@@ -1,4 +1,4 @@
-Last activity: 2026-06-22 21:22:38 UTC
+Last activity: 2026-06-23 20:38:25 UTC
 
 ### Random DSA Tip of the Day
-> Trie is the go-to for prefix search problems.
+> Two-pointer technique saves O(n) space in many problems.
