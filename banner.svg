@@ -1,0 +1,61 @@
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="200" fill="#0d1117"/>
+  
+  <!-- Matrix rain columns -->
+  <g font-family="monospace" font-size="14" fill="#00ff41" opacity="0.15">
+    <text x="20"  y="0"><animate attributeName="y" values="0;200" dur="2.1s" repeatCount="indefinite"/>01</text>
+    <text x="50"  y="0"><animate attributeName="y" values="0;200" dur="1.7s" repeatCount="indefinite"/>10</text>
+    <text x="80"  y="0"><animate attributeName="y" values="0;200" dur="2.4s" repeatCount="indefinite"/>01</text>
+    <text x="110" y="0"><animate attributeName="y" values="0;200" dur="1.9s" repeatCount="indefinite"/>11</text>
+    <text x="140" y="0"><animate attributeName="y" values="0;200" dur="2.7s" repeatCount="indefinite"/>00</text>
+    <text x="170" y="0"><animate attributeName="y" values="0;200" dur="1.5s" repeatCount="indefinite"/>10</text>
+    <text x="200" y="0"><animate attributeName="y" values="0;200" dur="2.2s" repeatCount="indefinite"/>01</text>
+    <text x="230" y="0"><animate attributeName="y" values="0;200" dur="1.8s" repeatCount="indefinite"/>11</text>
+    <text x="260" y="0"><animate attributeName="y" values="0;200" dur="2.5s" repeatCount="indefinite"/>00</text>
+    <text x="290" y="0"><animate attributeName="y" values="0;200" dur="1.6s" repeatCount="indefinite"/>10</text>
+    <text x="320" y="0"><animate attributeName="y" values="0;200" dur="2.3s" repeatCount="indefinite"/>01</text>
+    <text x="350" y="0"><animate attributeName="y" values="0;200" dur="1.4s" repeatCount="indefinite"/>11</text>
+    <text x="380" y="0"><animate attributeName="y" values="0;200" dur="2.8s" repeatCount="indefinite"/>00</text>
+    <text x="410" y="0"><animate attributeName="y" values="0;200" dur="1.9s" repeatCount="indefinite"/>10</text>
+    <text x="440" y="0"><animate attributeName="y" values="0;200" dur="2.1s" repeatCount="indefinite"/>01</text>
+    <text x="470" y="0"><animate attributeName="y" values="0;200" dur="1.7s" repeatCount="indefinite"/>11</text>
+    <text x="500" y="0"><animate attributeName="y" values="0;200" dur="2.6s" repeatCount="indefinite"/>00</text>
+    <text x="530" y="0"><animate attributeName="y" values="0;200" dur="1.5s" repeatCount="indefinite"/>10</text>
+    <text x="560" y="0"><animate attributeName="y" values="0;200" dur="2.0s" repeatCount="indefinite"/>01</text>
+    <text x="590" y="0"><animate attributeName="y" values="0;200" dur="1.8s" repeatCount="indefinite"/>11</text>
+    <text x="620" y="0"><animate attributeName="y" values="0;200" dur="2.4s" repeatCount="indefinite"/>00</text>
+    <text x="650" y="0"><animate attributeName="y" values="0;200" dur="1.6s" repeatCount="indefinite"/>10</text>
+    <text x="680" y="0"><animate attributeName="y" values="0;200" dur="2.9s" repeatCount="indefinite"/>01</text>
+    <text x="710" y="0"><animate attributeName="y" values="0;200" dur="1.3s" repeatCount="indefinite"/>11</text>
+    <text x="740" y="0"><animate attributeName="y" values="0;200" dur="2.2s" repeatCount="indefinite"/>00</text>
+    <text x="770" y="0"><animate attributeName="y" values="0;200" dur="1.7s" repeatCount="indefinite"/>10</text>
+    <text x="800" y="0"><animate attributeName="y" values="0;200" dur="2.5s" repeatCount="indefinite"/>01</text>
+    <text x="830" y="0"><animate attributeName="y" values="0;200" dur="1.9s" repeatCount="indefinite"/>11</text>
+    <text x="860" y="0"><animate attributeName="y" values="0;200" dur="2.1s" repeatCount="indefinite"/>00</text>
+  </g>
+
+  <!-- Name -->
+  <text x="50%" y="95" 
+    font-family="monospace" 
+    font-size="52" 
+    font-weight="bold"
+    fill="#00ff41" 
+    text-anchor="middle"
+    letter-spacing="8">
+    ESHA DEY
+    <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="140" 
+    font-family="monospace" 
+    font-size="14" 
+    fill="#00cc33"
+    text-anchor="middle"
+    letter-spacing="2">
+    Full-Stack Developer | DevOps Engineer | Problem Solver
+  </text>
+
+  <!-- Bottom green line -->
+  <rect x="0" y="195" width="100%" height="2" fill="#00ff41" opacity="0.6"/>
+</svg>
