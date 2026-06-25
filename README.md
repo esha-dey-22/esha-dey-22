@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Esha%20Dey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=180&section=header&text=ESHA%20DEY&fontSize=64&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=65&descAlign=50&descSize=16&stroke=00ff41&strokeWidth=1" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+DevOps+Enthusiast+%7C+Problem+Solver;B.Tech+CSE+%40+Lovely+Professional+University;800%2B+LeetCode+Problems+%7C+IBM+DevOps+Certified;Building+scalable+web+apps+%26+deployment+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+DevOps+Enthusiast+%7C+Problem+Solver;B.Tech+CSE+%40+Lovely+Professional+University;864%2B+LeetCode+Problems+%7C+IBM+DevOps+Certified;Building+scalable+web+apps+%26+deployment+pipelines)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,7 +35,7 @@ I'm **Esha Dey**, a Computer Science Engineer from Kolkata, India, who loves bui
 
 - 🔭 **Currently:** Final year B.Tech CSE at Lovely Professional University
 - 🛠️ **Building:** Full-stack apps with real DevOps pipelines — not just localhost
-- 🧠 **Sharpening:** <!-- LEETCODE_TOTAL -->871<!-- /LEETCODE_TOTAL -->+ LeetCode problems across Arrays, Trees, DP, Graphs
+- 🧠 **Sharpening:** <!-- LEETCODE_TOTAL -->864<!-- /LEETCODE_TOTAL -->+ LeetCode problems across Arrays, Trees, DP, Graphs
 - 🌱 **Learning:** System Design, Cloud Architecture, Kubernetes at scale
 - 📍 **Location:** Kolkata, West Bengal, India
 - 💬 **Open to:** Internships · Live Projects · Collaborative Engineering
@@ -53,11 +53,78 @@ esha = {
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Project — CivicConnect
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-civicconnect--plum.vercel.app-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://civicconnect-plum.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-esha--dey--22%2FCivicConnect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esha-dey-22/CivicConnect)
+
+</div>
+
+> An AI-powered civic engagement platform that connects citizens with local authorities — built with a full microservices architecture and deployed on Vercel.
+
+### 🧠 What Makes It Smart
+
+| Capability | Implementation |
+|---|---|
+| **Sentiment Analysis** | VADER NLP classifies complaint tone as Positive / Negative / Neutral automatically |
+| **Duplicate Detection** | TF-IDF vectorization + Cosine Similarity prevents spam and redundant reports |
+| **AI Chatbot** | n8n-powered intelligent assistant answers civic queries in real time |
+| **GPS Issue Mapping** | Interactive map with density markers for high-priority zones |
+| **Admin Analytics** | Visual charts for category distribution, resolution rates, and issue trends |
+| **Email Automation** | Nodemailer triggers automated Gmail notifications on every status update |
+
+### 🏗️ Architecture
+
+```
+┌─────────────────────────────────────────────────────┐
+│                    CIVICCONNECT                      │
+├───────────────┬─────────────────┬───────────────────┤
+│   FRONTEND    │   BACKEND API   │  AI MICROSERVICE  │
+│  Next.js 15   │  Node.js +      │  FastAPI + Python │
+│  React        │  Express.js     │  VADER Sentiment  │
+│  Tailwind CSS │  MongoDB        │  TF-IDF + Cosine  │
+│  Clerk Auth   │  Nodemailer     │  Scikit-learn     │
+└───────────────┴─────────────────┴───────────────────┘
+         │               │                │
+         └───────────────┴────────────────┘
+                    Vercel Deploy
+```
+### ✨ Key Features
+
+**For Citizens:**
+- 📝 Submit civic issues with descriptions, categories, and photo uploads
+- 📍 Automatic GPS location capture for accurate issue mapping
+- 📊 Live public registry to track issue status in real time
+- 🤖 AI chatbot for instant civic query resolution
+
+**For Admins:**
+- 🗺️ Interactive map dashboard with issue density heatmap
+- 📈 Advanced analytics — category trends and resolution stats
+- ✉️ One-click status updates with automated email notifications to citizens
+- 📢 Push public announcements directly to the citizen registry
+
+### 🛠️ Built With
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🚀 Other Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CivicConnect**](https://github.com/esha-dey-22/CivicConnect) | 🗳️ AI-powered civic issue tracker with NLP duplicate detection using TF-IDF & Cosine Similarity | Next.js 15 · FastAPI · MongoDB · VADER NLP · Clerk Auth |
 | **Local Market Platform** | 🏪 Hyper-local marketplace connecting neighbourhood vendors with nearby buyers via Jenkins CI/CD | Node.js · Express.js · MongoDB · Docker · Jenkins |
 | **StreamFlare** | 🎬 Netflix-inspired multi-device entertainment dashboard with Dockerized build workflows | HTML/CSS/JS · Bootstrap · Jenkins · Docker Hub |
 | **Marks Update Tracker** | 📈 CLI tool tracking student score updates and rank jumps using custom hash maps | Python · Data Structures · Algorithms |
@@ -104,10 +171,7 @@ esha = {
 
 <div align="center">
 
-<img height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=esha-dey-22&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github"
-  onerror="this.src='https://github-readme-stats-git-master-esha-dey-22.vercel.app/api?username=esha-dey-22&show_icons=true&theme=tokyonight&hide_border=true'"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=esha-dey-22&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha-dey-22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -139,7 +203,7 @@ esha = {
 <!-- STATS_TABLE_START -->
 | 🔥 Streak | 📦 Repos | 🧠 LeetCode | 🎓 Certs |
 |---|---|---|---|
-| Active Daily | 24+ Public | 871+ Solved | 3 Earned |
+| Active Daily | 24+ Public | 864+ Solved | 3 Earned |
 <!-- STATS_TABLE_END -->
 
 ---
@@ -165,7 +229,7 @@ esha = {
 </div>
 
 <!-- LEETCODE_SUMMARY_START -->
-> **871+ problems solved** — Array, String, Hash Table, Dynamic Programming, Math · Languages: Java, Python, JavaScript
+> **864+ problems solved** — Arrays, Trees, Dynamic Programming, Graphs, Backtracking · Languages: Java, Python, JavaScript
 <!-- LEETCODE_SUMMARY_END -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
