@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="3px"/>
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+DevOps+Enthusiast+%7C+Problem+Solver;B.Tech+CSE+%40+Lovely+Professional+University;864%2B+LeetCode+Problems+%7C+IBM+DevOps+Certified;Building+scalable+web+apps+%26+deployment+pipelines)](https://git.io/typing-svg)
 
