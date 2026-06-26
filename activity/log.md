@@ -1,4 +1,4 @@
-Last activity: 2026-06-25 20:34:50 UTC
+Last activity: 2026-06-26 20:21:54 UTC
 
 ### Random DSA Tip of the Day
-> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
+> Kadane's algorithm finds max subarray sum in O(n).
