@@ -1,4 +1,4 @@
-Last activity: 2026-06-27 19:55:36 UTC
+Last activity: 2026-06-28 19:57:18 UTC
 
 ### Random DSA Tip of the Day
-> Monotonic stack solves next greater element in O(n).
+> Kadane's algorithm finds max subarray sum in O(n).
