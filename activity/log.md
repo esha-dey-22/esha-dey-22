@@ -1,4 +1,4 @@
-Last activity: 2026-06-29 20:30:12 UTC
+Last activity: 2026-06-30 20:32:32 UTC
 
 ### Random DSA Tip of the Day
-> Monotonic stack solves next greater element in O(n).
+> Backtracking = try everything, undo what doesn't work.
