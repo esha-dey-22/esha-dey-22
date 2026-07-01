@@ -1,4 +1,4 @@
-Last activity: 2026-06-30 20:32:32 UTC
+Last activity: 2026-07-01 20:28:17 UTC
 
 ### Random DSA Tip of the Day
-> Backtracking = try everything, undo what doesn't work.
+> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
