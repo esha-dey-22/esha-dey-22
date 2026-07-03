@@ -1,4 +1,4 @@
-Last activity: 2026-07-02 20:05:46 UTC
+Last activity: 2026-07-03 20:01:54 UTC
 
 ### Random DSA Tip of the Day
-> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
+> Binary search works on any monotonic function, not just sorted arrays.
