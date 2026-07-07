@@ -1,4 +1,4 @@
-Last activity: 2026-07-06 20:32:31 UTC
+Last activity: 2026-07-07 20:30:16 UTC
 
 ### Random DSA Tip of the Day
-> Sliding window is two-pointer's smarter cousin.
+> Kadane's algorithm finds max subarray sum in O(n).
