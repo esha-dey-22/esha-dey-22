@@ -1,4 +1,4 @@
-Last activity: 2026-07-07 20:30:16 UTC
+Last activity: 2026-07-08 20:07:27 UTC
 
 ### Random DSA Tip of the Day
-> Kadane's algorithm finds max subarray sum in O(n).
+> Recursion is just trust — trust the function handles the subproblem.
