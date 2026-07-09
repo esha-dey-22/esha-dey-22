@@ -1,4 +1,4 @@
-Last activity: 2026-07-08 20:07:27 UTC
+Last activity: 2026-07-09 20:27:34 UTC
 
 ### Random DSA Tip of the Day
-> Recursion is just trust — trust the function handles the subproblem.
+> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
