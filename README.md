@@ -267,6 +267,7 @@ I want to grow from a developer who ships features into an engineer who architec
 
 [![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11546830/)
 [![Conference](https://img.shields.io/badge/ICSSCNA_2026-Conference_Paper-orange?style=for-the-badge&logo=academia&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11546830/)
+[![ResearchGate](https://img.shields.io/badge/Full_Text-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/406713934_An_Artificial_Intelligence-Based_Framework_for_Automated_Civic_Issue_Reporting_and_Resolution#fullTextFileContent)
 
 </div>
 
@@ -279,6 +280,7 @@ I want to grow from a developer who ships features into an engineer who architec
 | **Pages** | 831 – 837 |
 | **Date** | May 4, 2026 |
 | **DOI** | [ieeexplore.ieee.org/abstract/document/11546830](https://ieeexplore.ieee.org/abstract/document/11546830/) |
+| **Full Text** | [ResearchGate — Open Access PDF](https://www.researchgate.net/publication/406713934_An_Artificial_Intelligence-Based_Framework_for_Automated_Civic_Issue_Reporting_and_Resolution#fullTextFileContent) |
 | **Authors** | Srividhya Nalla, **Esha Dey**, Sakshi Takkar, Diksha Sharma, Lakshmi Pragnya, Veeraboina Gowri |
 | **Topics** | AI · Civic Tech · Crowdsourcing · Geospatial Tagging · Machine Learning · NLP |
 
@@ -287,6 +289,7 @@ I want to grow from a developer who ships features into an engineer who architec
 <div align="center">
 
 [![Read Paper](https://img.shields.io/badge/Read_Full_Paper-IEEE_Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11546830/)
+[![Full Text](https://img.shields.io/badge/Full_Text_PDF-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/406713934_An_Artificial_Intelligence-Based_Framework_for_Automated_Civic_Issue_Reporting_and_Resolution#fullTextFileContent)
 
 </div>
 
