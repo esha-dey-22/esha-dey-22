@@ -1,4 +1,4 @@
-Last activity: 2026-07-10 20:03:50 UTC
+Last activity: 2026-07-11 19:49:26 UTC
 
 ### Random DSA Tip of the Day
-> Floyd's cycle detection uses slow and fast pointers.
+> In-place reversal of a linked list needs three pointers: prev, curr, next.
