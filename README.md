@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=200&section=header&text=ESHA%20DEY&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=68&descAlign=50&descSize=16&fontAlign=50&stroke=00ff41&strokeWidth=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/esha-dey-22/esha-dey-22/main/banner.svg" width="100%"/>
 </div>
 
 <div align="center">
