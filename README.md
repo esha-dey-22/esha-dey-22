@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/esha-dey-22/esha-dey-22/main/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=200&section=header&text=ESHA%20DEY&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=68&descAlign=50&descSize=16&fontAlign=50&stroke=00ff41&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+DevOps+Enthusiast+%7C+Problem+Solver;B.Tech+CSE+%40+Lovely+Professional+University;864%2B+LeetCode+Problems+%7C+IBM+DevOps+Certified;Building+scalable+web+apps+%26+deployment+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+DevOps+Enthusiast+%7C+Problem+Solver;B.Tech+CSE+%40+Lovely+Professional+University;864%2B+LeetCode+Problems+%7C+IEEE+Published+Researcher;Building+scalable+web+apps+%26+deployment+pipelines)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,8 +33,9 @@ I'm **Esha Dey**, a Computer Science Engineer from Kolkata, India, who loves bui
 
 - 🔭 **Currently:** Final year B.Tech CSE at Lovely Professional University
 - 🛠️ **Building:** Full-stack apps with real DevOps pipelines — not just localhost
-- 🧠 **Sharpening:** <!-- LEETCODE_TOTAL -->885<!-- /LEETCODE_TOTAL -->+ LeetCode problems across Arrays, Trees, DP, Graphs
+- 🧠 **Sharpening:** <!-- LEETCODE_TOTAL -->864<!-- /LEETCODE_TOTAL -->+ LeetCode problems across Arrays, Trees, DP, Graphs
 - 🌱 **Learning:** System Design, Cloud Architecture, Kubernetes at scale
+- 📄 **Research:** IEEE Published — ICSSCNA 2026 · AI-Based Civic Issue Resolution
 - 📍 **Location:** Kolkata, West Bengal, India
 - 💬 **Open to:** Internships · Live Projects · Collaborative Engineering
 
@@ -42,6 +43,7 @@ I'm **Esha Dey**, a Computer Science Engineer from Kolkata, India, who loves bui
 esha = {
     "focus":     ["Full-Stack Development", "DevOps & CI/CD", "Competitive Programming"],
     "certified": ["IBM DevOps & Software Engineering", "DSA — Techvanto", "OOP — IamNEO"],
+    "research":  "IEEE Published — ICSSCNA 2026 · AI-Based Civic Issue Resolution",
     "cp":        "864+ problems solved — Java · Python · JavaScript",
     "contact":   "edey38111@gmail.com"
 }
@@ -57,10 +59,11 @@ esha = {
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-civicconnect--plum.vercel.app-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://civicconnect-plum.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-esha--dey--22%2FCivicConnect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esha-dey-22/CivicConnect)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Research_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11546830/)
 
 </div>
 
-> An AI-powered civic engagement platform that connects citizens with local authorities — built with a full microservices architecture and deployed on Vercel.
+> An AI-powered civic engagement platform that connects citizens with local authorities — built with a full microservices architecture, deployed on Vercel, and published as an IEEE research paper at ICSSCNA 2026.
 
 ### 🧠 What Makes It Smart
 
@@ -89,6 +92,7 @@ esha = {
          └───────────────┴────────────────┘
                     Vercel Deploy
 ```
+
 ### ✨ Key Features
 
 **For Citizens:**
@@ -169,8 +173,8 @@ esha = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=esha-dey-22&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha-dey-22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=esha-dey-22&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esha-dey-22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -201,7 +205,7 @@ esha = {
 <!-- STATS_TABLE_START -->
 | 🔥 Streak | 📦 Repos | 🧠 LeetCode | 🎓 Certs |
 |---|---|---|---|
-| Active Daily | 24+ Public | 885+ Solved | 3 Earned |
+| Active Daily | 24+ Public | 864+ Solved | 3 Earned |
 <!-- STATS_TABLE_END -->
 
 ---
@@ -227,7 +231,7 @@ esha = {
 </div>
 
 <!-- LEETCODE_SUMMARY_START -->
-> **885+ problems solved** — Array, String, Hash Table, Dynamic Programming, Math · Languages: Java, Python, JavaScript
+> **864+ problems solved** — Arrays, Trees, Dynamic Programming, Graphs, Backtracking · Languages: Java, Python, JavaScript
 <!-- LEETCODE_SUMMARY_END -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -252,6 +256,39 @@ I want to grow from a developer who ships features into an engineer who architec
 | 🏆 | IBM DevOps and Software Engineering Professional Certificate | IBM / Coursera | Nov 2024 |
 | 📊 | Data Structures and Algorithms | Techvanto Academy | Jun 2024 |
 | 🎯 | Object Oriented Programming | IamNEO Platform | Dec 2023 |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 📄 Research & Publications
+
+<div align="center">
+
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11546830/)
+[![Conference](https://img.shields.io/badge/ICSSCNA_2026-Conference_Paper-orange?style=for-the-badge&logo=academia&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11546830/)
+
+</div>
+
+### An Artificial Intelligence-Based Framework for Automated Civic Issue Reporting and Resolution
+
+| | |
+|---|---|
+| **Published in** | 2026 International Conference on Signal, Systems, and Computing for Next-Gen Automation (ICSSCNA) |
+| **Publisher** | IEEE |
+| **Pages** | 831 – 837 |
+| **Date** | May 4, 2026 |
+| **DOI** | [ieeexplore.ieee.org/abstract/document/11546830](https://ieeexplore.ieee.org/abstract/document/11546830/) |
+| **Authors** | Srividhya Nalla, **Esha Dey**, Sakshi Takkar, Diksha Sharma, Lakshmi Pragnya, Veeraboina Gowri |
+| **Topics** | AI · Civic Tech · Crowdsourcing · Geospatial Tagging · Machine Learning · NLP |
+
+> Proposes a crowdsourced civic issue reporting and resolution system integrating multi-data gathering, geospatial tagging, community verification, and ML-based issue prioritization — addressing the inefficiencies of traditional manual complaint systems through participatory sensing and real-time citizen reporting.
+
+<div align="center">
+
+[![Read Paper](https://img.shields.io/badge/Read_Full_Paper-IEEE_Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11546830/)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
