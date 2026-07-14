@@ -1,4 +1,4 @@
-Last activity: 2026-07-13 20:02:03 UTC
+Last activity: 2026-07-14 19:53:47 UTC
 
 ### Random DSA Tip of the Day
-> Prefix sums solve subarray sum problems in O(1) per query.
+> For interval problems, always sort by start time first.
