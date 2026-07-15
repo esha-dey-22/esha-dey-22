@@ -1,4 +1,4 @@
-Last activity: 2026-07-14 19:53:47 UTC
+Last activity: 2026-07-15 19:49:00 UTC
 
 ### Random DSA Tip of the Day
-> For interval problems, always sort by start time first.
+> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
