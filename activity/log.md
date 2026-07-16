@@ -1,4 +1,4 @@
-Last activity: 2026-07-15 19:49:00 UTC
+Last activity: 2026-07-16 19:44:30 UTC
 
 ### Random DSA Tip of the Day
-> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
+> For interval problems, always sort by start time first.
