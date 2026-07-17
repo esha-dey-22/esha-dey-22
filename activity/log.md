@@ -1,4 +1,4 @@
-Last activity: 2026-07-16 19:44:30 UTC
+Last activity: 2026-07-17 19:43:27 UTC
 
 ### Random DSA Tip of the Day
-> For interval problems, always sort by start time first.
+> Union-Find is the cleanest solution for cycle detection in undirected graphs.
