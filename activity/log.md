@@ -1,4 +1,4 @@
-Last activity: 2026-07-18 19:48:22 UTC
+Last activity: 2026-07-19 19:49:07 UTC
 
 ### Random DSA Tip of the Day
-> Always analyze time complexity before coding.
+> Monotonic stack solves next greater element in O(n).
