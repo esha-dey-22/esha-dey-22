@@ -1,4 +1,4 @@
-Last activity: 2026-07-19 19:49:07 UTC
+Last activity: 2026-07-20 20:10:33 UTC
 
 ### Random DSA Tip of the Day
-> Monotonic stack solves next greater element in O(n).
+> For graph problems, always clarify: directed or undirected? Weighted?
