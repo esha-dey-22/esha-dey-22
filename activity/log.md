@@ -1,4 +1,4 @@
-Last activity: 2026-07-20 20:10:33 UTC
+Last activity: 2026-07-21 20:04:54 UTC
 
 ### Random DSA Tip of the Day
-> For graph problems, always clarify: directed or undirected? Weighted?
+> Prefix sums solve subarray sum problems in O(1) per query.
