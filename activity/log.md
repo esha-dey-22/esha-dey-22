@@ -1,4 +1,4 @@
-Last activity: 2026-07-21 20:04:54 UTC
+Last activity: 2026-07-22 19:55:34 UTC
 
 ### Random DSA Tip of the Day
-> Prefix sums solve subarray sum problems in O(1) per query.
+> Binary search works on any monotonic function, not just sorted arrays.
