@@ -1,4 +1,4 @@
-Last activity: 2026-07-23 19:58:43 UTC
+Last activity: 2026-07-24 19:59:53 UTC
 
 ### Random DSA Tip of the Day
-> HashMap lookups are O(1) average — use them aggressively.
+> Binary search works on any monotonic function, not just sorted arrays.
