@@ -1,4 +1,4 @@
-Last activity: 2026-07-27 20:07:45 UTC
+Last activity: 2026-07-28 20:04:20 UTC
 
 ### Random DSA Tip of the Day
-> Prefix sums solve subarray sum problems in O(1) per query.
+> Topological sort = BFS (Kahn's) or DFS on a DAG.
