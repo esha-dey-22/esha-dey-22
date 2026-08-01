@@ -1,4 +1,4 @@
-Last activity: 2026-07-31 20:06:45 UTC
+Last activity: 2026-08-01 19:49:43 UTC
 
 ### Random DSA Tip of the Day
-> Trie is the go-to for prefix search problems.
+> Sliding window is two-pointer's smarter cousin.
