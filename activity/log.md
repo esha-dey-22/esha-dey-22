@@ -1,4 +1,4 @@
-Last activity: 2026-08-04 20:11:37 UTC
+Last activity: 2026-08-05 20:12:39 UTC
 
 ### Random DSA Tip of the Day
-> Always consider integer overflow when multiplying large numbers.
+> Recursion is just trust — trust the function handles the subproblem.
