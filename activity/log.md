@@ -1,4 +1,4 @@
-Last activity: 2026-08-05 20:12:39 UTC
+Last activity: 2026-08-07 00:28:31 UTC
 
 ### Random DSA Tip of the Day
-> Recursion is just trust — trust the function handles the subproblem.
+> Backtracking = try everything, undo what doesn't work.
