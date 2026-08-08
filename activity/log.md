@@ -1,4 +1,4 @@
-Last activity: 2026-08-07 19:36:57 UTC
+Last activity: 2026-08-08 19:14:37 UTC
 
 ### Random DSA Tip of the Day
-> Trie is the go-to for prefix search problems.
+> Recursion is just trust — trust the function handles the subproblem.
