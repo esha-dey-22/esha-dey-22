@@ -1,4 +1,4 @@
-Last activity: 2026-08-09 19:17:51 UTC
+Last activity: 2026-08-10 19:37:56 UTC
 
 ### Random DSA Tip of the Day
-> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
+> Trie is the go-to for prefix search problems.
