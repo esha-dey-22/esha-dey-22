@@ -1,4 +1,4 @@
-Last activity: 2026-08-10 19:37:56 UTC
+Last activity: 2026-08-11 19:42:04 UTC
 
 ### Random DSA Tip of the Day
-> Trie is the go-to for prefix search problems.
+> Prefix sums solve subarray sum problems in O(1) per query.
