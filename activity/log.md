@@ -1,4 +1,4 @@
-Last activity: 2026-08-11 19:42:04 UTC
+Last activity: 2026-08-12 19:44:39 UTC
 
 ### Random DSA Tip of the Day
-> Prefix sums solve subarray sum problems in O(1) per query.
+> Backtracking = try everything, undo what doesn't work.
