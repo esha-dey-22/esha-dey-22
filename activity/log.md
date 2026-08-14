@@ -1,4 +1,4 @@
-Last activity: 2026-08-13 19:40:54 UTC
+Last activity: 2026-08-14 19:34:22 UTC
 
 ### Random DSA Tip of the Day
-> For graph problems, always clarify: directed or undirected? Weighted?
+> HashMap lookups are O(1) average — use them aggressively.
