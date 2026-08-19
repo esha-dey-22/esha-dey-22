@@ -1,4 +1,4 @@
-Last activity: 2026-08-18 19:14:24 UTC
+Last activity: 2026-08-19 19:05:45 UTC
 
 ### Random DSA Tip of the Day
-> Memoization = recursion + cache. Start there before tabulation.
+> Trie is the go-to for prefix search problems.
