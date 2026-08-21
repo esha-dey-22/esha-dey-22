@@ -1,4 +1,4 @@
-Last activity: 2026-08-20 19:17:14 UTC
+Last activity: 2026-08-21 19:10:50 UTC
 
 ### Random DSA Tip of the Day
-> Backtracking = try everything, undo what doesn't work.
+> Union-Find is the cleanest solution for cycle detection in undirected graphs.
