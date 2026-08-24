@@ -1,4 +1,4 @@
-Last activity: 2026-08-23 19:00:48 UTC
+Last activity: 2026-08-24 19:15:43 UTC
 
 ### Random DSA Tip of the Day
-> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
+> Memoization = recursion + cache. Start there before tabulation.
