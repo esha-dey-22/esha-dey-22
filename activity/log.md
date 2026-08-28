@@ -1,4 +1,4 @@
-Last activity: 2026-08-26 21:11:32 UTC
+Last activity: 2026-08-28 02:19:07 UTC
 
 ### Random DSA Tip of the Day
-> Monotonic stack solves next greater element in O(n).
+> Topological sort = BFS (Kahn's) or DFS on a DAG.
