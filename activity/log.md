@@ -1,4 +1,4 @@
-Last activity: 2026-08-29 21:11:04 UTC
+Last activity: 2026-08-30 21:31:21 UTC
 
 ### Random DSA Tip of the Day
-> Trie is the go-to for prefix search problems.
+> HashMap lookups are O(1) average — use them aggressively.
