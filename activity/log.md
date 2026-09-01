@@ -1,4 +1,4 @@
-Last activity: 2026-08-31 23:00:58 UTC
+Last activity: 2026-09-01 21:18:36 UTC
 
 ### Random DSA Tip of the Day
-> Memoization = recursion + cache. Start there before tabulation.
+> Topological sort = BFS (Kahn's) or DFS on a DAG.
