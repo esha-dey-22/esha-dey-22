@@ -1,4 +1,4 @@
-Last activity: 2026-09-02 21:15:33 UTC
+Last activity: 2026-09-03 21:18:55 UTC
 
 ### Random DSA Tip of the Day
-> Monotonic stack solves next greater element in O(n).
+> Memoization = recursion + cache. Start there before tabulation.
