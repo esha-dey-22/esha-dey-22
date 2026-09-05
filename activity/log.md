@@ -1,4 +1,4 @@
-Last activity: 2026-09-04 21:01:00 UTC
+Last activity: 2026-09-05 20:41:45 UTC
 
 ### Random DSA Tip of the Day
-> Sliding window is two-pointer's smarter cousin.
+> Monotonic stack solves next greater element in O(n).
