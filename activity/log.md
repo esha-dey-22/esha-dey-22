@@ -1,4 +1,4 @@
-Last activity: 2026-09-05 20:41:45 UTC
+Last activity: 2026-09-06 20:47:50 UTC
 
 ### Random DSA Tip of the Day
-> Monotonic stack solves next greater element in O(n).
+> In-place reversal of a linked list needs three pointers: prev, curr, next.
