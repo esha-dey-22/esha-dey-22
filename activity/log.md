@@ -1,4 +1,4 @@
-Last activity: 2026-09-08 21:23:08 UTC
+Last activity: 2026-09-09 21:08:55 UTC
 
 ### Random DSA Tip of the Day
-> Monotonic stack solves next greater element in O(n).
+> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
