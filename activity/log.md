@@ -1,4 +1,4 @@
-Last activity: 2026-09-16 21:40:51 UTC
+Last activity: 2026-09-17 21:43:44 UTC
 
 ### Random DSA Tip of the Day
-> Always analyze time complexity before coding.
+> Kadane's algorithm finds max subarray sum in O(n).
