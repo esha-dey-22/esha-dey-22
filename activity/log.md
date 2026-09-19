@@ -1,4 +1,4 @@
-Last activity: 2026-09-18 21:13:12 UTC
+Last activity: 2026-09-19 20:58:21 UTC
 
 ### Random DSA Tip of the Day
-> Trie is the go-to for prefix search problems.
+> Backtracking = try everything, undo what doesn't work.
