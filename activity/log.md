@@ -1,4 +1,4 @@
-Last activity: 2026-09-24 21:46:38 UTC
+Last activity: 2026-09-25 21:48:42 UTC
 
 ### Random DSA Tip of the Day
-> Backtracking = try everything, undo what doesn't work.
+> Kadane's algorithm finds max subarray sum in O(n).
