@@ -1,4 +1,4 @@
-Last activity: 2026-09-30 22:35:39 UTC
+Last activity: 2026-10-01 22:53:27 UTC
 
 ### Random DSA Tip of the Day
-> Always consider integer overflow when multiplying large numbers.
+> In-place reversal of a linked list needs three pointers: prev, curr, next.
