@@ -1,4 +1,4 @@
-Last activity: 2026-10-01 22:53:27 UTC
+Last activity: 2026-10-02 22:32:09 UTC
 
 ### Random DSA Tip of the Day
-> In-place reversal of a linked list needs three pointers: prev, curr, next.
+> Backtracking = try everything, undo what doesn't work.
