@@ -1,4 +1,4 @@
-Last activity: 2026-10-02 22:32:09 UTC
+Last activity: 2026-10-03 21:44:00 UTC
 
 ### Random DSA Tip of the Day
-> Backtracking = try everything, undo what doesn't work.
+> Sliding window is two-pointer's smarter cousin.
