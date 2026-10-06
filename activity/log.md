@@ -1,4 +1,4 @@
-Last activity: 2026-10-04 21:54:19 UTC
+Last activity: 2026-10-06 00:18:30 UTC
 
 ### Random DSA Tip of the Day
-> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
+> Sliding window is two-pointer's smarter cousin.
