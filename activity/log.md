@@ -1,4 +1,4 @@
-Last activity: 2026-10-08 23:32:40 UTC
+Last activity: 2026-10-09 22:52:47 UTC
 
 ### Random DSA Tip of the Day
-> Topological sort = BFS (Kahn's) or DFS on a DAG.
+> Binary search works on any monotonic function, not just sorted arrays.
