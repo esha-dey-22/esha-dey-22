@@ -1,4 +1,4 @@
-Last activity: 2026-10-13 23:06:18 UTC
+Last activity: 2026-10-14 21:55:30 UTC
 
 ### Random DSA Tip of the Day
-> Binary search works on any monotonic function, not just sorted arrays.
+> In-place reversal of a linked list needs three pointers: prev, curr, next.
