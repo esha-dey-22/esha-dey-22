@@ -1,4 +1,4 @@
-Last activity: 2026-10-14 21:55:30 UTC
+Last activity: 2026-10-15 21:44:15 UTC
 
 ### Random DSA Tip of the Day
-> In-place reversal of a linked list needs three pointers: prev, curr, next.
+> Prefix sums solve subarray sum problems in O(1) per query.
