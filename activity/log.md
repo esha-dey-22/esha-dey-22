@@ -1,4 +1,4 @@
-Last activity: 2026-10-19 22:37:02 UTC
+Last activity: 2026-10-20 21:50:49 UTC
 
 ### Random DSA Tip of the Day
-> Union-Find is the cleanest solution for cycle detection in undirected graphs.
+> Prefix sums solve subarray sum problems in O(1) per query.
