@@ -1,4 +1,4 @@
-Last activity: 2026-10-20 21:50:49 UTC
+Last activity: 2026-10-21 21:57:59 UTC
 
 ### Random DSA Tip of the Day
-> Prefix sums solve subarray sum problems in O(1) per query.
+> HashMap lookups are O(1) average — use them aggressively.
