@@ -1,4 +1,4 @@
-Last activity: 2026-10-22 21:54:20 UTC
+Last activity: 2026-10-23 21:38:31 UTC
 
 ### Random DSA Tip of the Day
-> Floyd's cycle detection uses slow and fast pointers.
+> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
