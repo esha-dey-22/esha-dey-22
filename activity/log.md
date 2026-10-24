@@ -1,4 +1,4 @@
-Last activity: 2026-10-23 21:38:31 UTC
+Last activity: 2026-10-24 21:09:37 UTC
 
 ### Random DSA Tip of the Day
-> DFS uses a stack (implicit or explicit). BFS uses a queue. Always.
+> Topological sort = BFS (Kahn's) or DFS on a DAG.
