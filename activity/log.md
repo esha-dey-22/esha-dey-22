@@ -1,4 +1,4 @@
-Last activity: 2026-10-24 21:09:37 UTC
+Last activity: 2026-10-25 21:12:46 UTC
 
 ### Random DSA Tip of the Day
-> Topological sort = BFS (Kahn's) or DFS on a DAG.
+> Recursion is just trust — trust the function handles the subproblem.
