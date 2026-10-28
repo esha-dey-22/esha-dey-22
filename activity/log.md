@@ -1,4 +1,4 @@
-Last activity: 2026-10-27 22:35:11 UTC
+Last activity: 2026-10-28 22:50:29 UTC
 
 ### Random DSA Tip of the Day
-> For interval problems, always sort by start time first.
+> In-place reversal of a linked list needs three pointers: prev, curr, next.
