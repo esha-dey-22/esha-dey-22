@@ -1,4 +1,4 @@
-Last activity: 2026-10-28 22:50:29 UTC
+Last activity: 2026-10-29 22:57:17 UTC
 
 ### Random DSA Tip of the Day
-> In-place reversal of a linked list needs three pointers: prev, curr, next.
+> Kadane's algorithm finds max subarray sum in O(n).
