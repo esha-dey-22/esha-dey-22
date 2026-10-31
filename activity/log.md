@@ -1,4 +1,4 @@
-Last activity: 2026-10-30 22:37:57 UTC
+Last activity: 2026-10-31 21:50:54 UTC
 
 ### Random DSA Tip of the Day
-> Topological sort = BFS (Kahn's) or DFS on a DAG.
+> Sliding window is two-pointer's smarter cousin.
