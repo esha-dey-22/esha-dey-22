@@ -1,4 +1,4 @@
-Last activity: 2026-11-03 01:12:28 UTC
+Last activity: 2026-11-03 23:39:00 UTC
 
 ### Random DSA Tip of the Day
-> Kadane's algorithm finds max subarray sum in O(n).
+> Binary search works on any monotonic function, not just sorted arrays.
