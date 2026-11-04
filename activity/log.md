@@ -1,4 +1,4 @@
-Last activity: 2026-11-03 23:39:00 UTC
+Last activity: 2026-11-04 23:54:28 UTC
 
 ### Random DSA Tip of the Day
-> Binary search works on any monotonic function, not just sorted arrays.
+> For graph problems, always clarify: directed or undirected? Weighted?
