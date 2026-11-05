@@ -1,4 +1,4 @@
-Last activity: 2026-11-04 23:54:28 UTC
+Last activity: 2026-11-05 23:49:38 UTC
 
 ### Random DSA Tip of the Day
-> For graph problems, always clarify: directed or undirected? Weighted?
+> Union-Find is the cleanest solution for cycle detection in undirected graphs.
