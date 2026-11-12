@@ -1,4 +1,4 @@
-Last activity: 2026-11-10 23:41:52 UTC
+Last activity: 2026-11-12 00:58:32 UTC
 
 ### Random DSA Tip of the Day
-> Binary search works on any monotonic function, not just sorted arrays.
+> Recursion is just trust — trust the function handles the subproblem.
