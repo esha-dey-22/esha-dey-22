@@ -1,4 +1,4 @@
-Last activity: 2026-11-12 00:58:32 UTC
+Last activity: 2026-11-12 23:51:34 UTC
 
 ### Random DSA Tip of the Day
-> Recursion is just trust — trust the function handles the subproblem.
+> Memoization = recursion + cache. Start there before tabulation.
