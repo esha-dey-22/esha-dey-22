@@ -1,4 +1,4 @@
-Last activity: 2026-11-14 22:43:26 UTC
+Last activity: 2026-11-15 23:09:30 UTC
 
 ### Random DSA Tip of the Day
-> Always consider integer overflow when multiplying large numbers.
+> Binary search works on any monotonic function, not just sorted arrays.
