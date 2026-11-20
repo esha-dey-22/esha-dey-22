@@ -1,4 +1,4 @@
-Last activity: 2026-11-19 00:42:34 UTC
+Last activity: 2026-11-20 00:54:05 UTC
 
 ### Random DSA Tip of the Day
-> Binary search works on any monotonic function, not just sorted arrays.
+> For interval problems, always sort by start time first.
