@@ -1,4 +1,4 @@
-Last activity: 2026-11-25 02:45:26 UTC
+Last activity: 2026-11-26 01:56:18 UTC
 
 ### Random DSA Tip of the Day
-> Backtracking = try everything, undo what doesn't work.
+> Memoization = recursion + cache. Start there before tabulation.
